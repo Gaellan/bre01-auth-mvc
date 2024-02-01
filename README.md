@@ -30,5 +30,10 @@ database_name
 - `?route=register`
 - `?route=check-register`
 - `?route=profile`
+- `?route=logout`
 - no route : redirect to login
 - unknown route : 404 page
+
+## Tests
+
+You can run the files in the `tests` folder to test different parts of the project.
